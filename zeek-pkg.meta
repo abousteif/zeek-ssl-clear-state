@@ -1,0 +1,5 @@
+[package]
+description = Clear SSL State
+script_dir = scripts
+depends =
+  zeek >=2.6
